@@ -1,0 +1,46 @@
+body{
+  background-color: aliceblue;
+}
+
+.register{
+  background-color: aliceblue;
+    width: 100%;
+    border-radius: 5px;
+    align-items: center;
+    text-align: center;
+}
+
+.register h3{
+  color: darkcyan;
+  text-transform: uppercase;
+  text-size-adjust: bold;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.register .form-group{
+  align-items: center;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  padding: 2px;
+}
+
+.register .form-group label{
+  padding: 2px;
+  text-align: left;
+}
+
+.register .form-group input{
+  padding: 2px;
+  text-align: center;
+  padding: 2px;
+}
+
+#register{
+  background-color: lightseagreen
+}
+
+#login{
+  background-color: lightgrey;
+}
